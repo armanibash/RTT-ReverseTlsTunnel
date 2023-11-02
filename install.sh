@@ -10,6 +10,7 @@ echo "
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 "
 echo "***** https://github.com/armanibash *****"
+echo "***** https://www.youtube.com/@armanibash *****"
 echo "***** RTT-ReverseTlsTunnel *****"
 echo
 sleep 1
