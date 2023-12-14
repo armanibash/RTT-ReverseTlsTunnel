@@ -18,17 +18,17 @@
 Easy installation
 
 ```bash
-  bash <(curl -fsSL https://raw.githubusercontent.com/armanibash/RTT-ReverseTlsTunnel/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/armanibash/RTT-ReverseTlsTunnel/main/install.sh)
 ```
 
 ### How to Manage مدیریت سرویس
 Stop the service.
 ```bash
-  systemctl stop tunnel.service
+systemctl stop tunnel.service
 ```
 View the status of the service.
 ```bash
-  systemctl status tunnel.service
+systemctl status tunnel.service
 ```
 Restart the service.
 ```bash
